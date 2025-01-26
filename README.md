@@ -1,1 +1,1 @@
-Prepare Extension Files → Package Extension (zip) → Load into Browser Extension Manager → Test the Extension Locally → Debug if Necessary → Publish Extension (if needed) → Update Extension → Deploy for Use
+Install Extension → Enable Extension in Browser → Access the Extension via Toolbar or Menu → Use the Extension's Features → Interact with Web Pages or Applications → View Results or Outputs → Update/Configure Extension as Needed
