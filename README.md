@@ -1,1 +1,1 @@
-Use this ZIP file to executue in chrome 
+Prepare Extension Files → Package Extension (zip) → Load into Browser Extension Manager → Test the Extension Locally → Debug if Necessary → Publish Extension (if needed) → Update Extension → Deploy for Use
